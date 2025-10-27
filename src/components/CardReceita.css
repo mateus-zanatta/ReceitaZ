@@ -1,0 +1,30 @@
+.p-sinopse {
+    color: rgb(44, 42, 42);
+    font-size: small;
+}
+
+.cards h3 {
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.cards h4 {
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.btn-avaliar{
+    background-color: tomato;
+    color: azure;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 0;
+}
+
+.new {
+    width: 80px;
+    margin-left: 100px;
+}

@@ -1,0 +1,57 @@
+label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.campos {
+    font-size: 14px;
+    border-radius: 8px;
+    padding: 12px;
+    border: 1px solid gray;
+}
+
+.campos:focus {
+    border-color: rgb(105, 105, 226);
+    box-shadow: 0 0 0 3px rgba(128, 128, 210, 0.2);
+    outline: none;
+}
+
+.duas-colunas {
+    display: flex;
+}
+
+.btn {
+    padding: 12px;
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.reset {
+    background-color: #f00;
+}
+
+.submit {
+    background-color: #00f;
+}
+
+.larguraG {
+    width: 444px;
+}
+
+.larguraM {
+    width: 240px;
+}
+
+.larguraP {
+    width: 140px;
+}
+
+.margem-esq {
+    margin-left: 40px;
+}
