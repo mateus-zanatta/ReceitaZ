@@ -97,4 +97,5 @@ Campos esperados por item: `id`, `titulo`, `tipo`, `porcoes`, `tempo_preparo_min
 - Padronizamos a terminologia para "Receitas" em UI e package name.
 - Melhorias possíveis: validar formulários, tratamento de erros com UI (não apenas console/alert), adicionar .env para a URL da API.
 - Se for publicar o pacote, verifique o `name` em `package.json` antes de publicar (atualmente `cadreceitas`).
+- Ao clonar o repositóirio, necessário separar a pasta `APIFAKE` para outro local por motivo de dependências. Só então, rodar a API FAKE em `npx json-server db.json`.
 
