@@ -42,6 +42,7 @@ Este README cobre:
       "ingredientes": "...",
       "modo_preparo": "...",
       "imagem": "https://via.placeholder.com/300",
+      "nomes": [],
       "comentarios": [],
       "notas": []
     }
